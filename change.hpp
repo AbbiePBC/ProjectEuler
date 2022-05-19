@@ -11,6 +11,7 @@ class Change {
         Change(int moneyInPence) {
             input_ = moneyInPence;
             coins_ = {200, 100, 50, 20, 10, 5, 2, 1};
+            findWaysToMakeChange(input_, coins_, 0);
         }
 
 
