@@ -5,7 +5,7 @@
 
 int main(int argc, char *argv[]){
 
-    int inputMoney = 1;
+    int inputMoney = 200;
 
     Change change(inputMoney);
 

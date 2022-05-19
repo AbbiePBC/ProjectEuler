@@ -1,0 +1,7 @@
+# don't commit IDE set up
+.idea
+
+Testing*
+
+# don't commit bin files
+*.out
