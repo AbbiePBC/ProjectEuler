@@ -16,5 +16,5 @@ int main(int argc, char *argv[]){
     }
     Change change(inputMoney);
 
-    std::cout<<"result: "<<change.result_;
+    std::cout<<"result: "<<change.result_<<std::endl;
 }
